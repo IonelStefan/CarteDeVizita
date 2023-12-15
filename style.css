@@ -1,0 +1,67 @@
+.info {
+    display: flex;
+    justify-content: flex-start;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    
+    
+    
+}
+
+.nume {
+    list-style: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-right: 2px solid   black;
+}
+
+img {
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 15px;
+    
+}
+
+.contact {
+    margin-top: 20px;
+    text-decoration: none;
+    list-style: none;
+    padding-left: 20px;
+}
+
+.logo img {
+    position: absolute;
+    top: 80px;
+    width: 280px;
+    left: -15px;
+    z-index: -1;
+    
+}
+
+#email,#adress,#telefon {
+    
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 2px;
+    border-top: 100px;
+    
+    
+}
+
+.icons {
+    position: absolute;
+    left: 320px;
+    top: 150px;
+    
+
+    
+}
+
+.bi-facebook,.bi-instagram,.bi-tiktok,.bi-youtube{
+    margin-right: 28px;
+    color:black;
+}
+
+
+.container {
+    position: absolute;
+}
